@@ -1,0 +1,46 @@
+{                             
+    "players": [{ 
+        "id": 1,
+        "name": "Lionel Messi",
+        "team" : "Inter Miami CF",
+        "nationality" : "argentina",
+        "jersynumber": 10,
+        "age":36,
+        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/soccer/players/full/45843.png&w=350&h=254"
+        
+    },
+    { 
+        "id": 2,
+        "name":"Cristiano Ronaldo",
+        "team" : " Al-Nassr FC",
+        "nationality" : "portuguese",
+        "jersynumber": 7,
+        "age":38,
+        "image": "https://b.fssta.com/uploads/application/soccer/headshots/885.vresize.350.350.medium.14.png"
+        
+        
+    },
+    { 
+        "id": 3,
+        "name":"Kevin De Bruyne",
+        "team" : "Manchester City F.C.",
+        "nationality" : "belgium",
+        "jersynumber": 17,
+        "age":32,
+        "image": "https://www.mancity.com/meta/media/z00hnhu0/kevin-de-bruyne.png"
+
+        
+        
+    },
+    { 
+        "id": 4,
+        "name":"Karim benzema",
+        "team" : "Ittahd",
+        "nationality" : "france",
+        "jersynumber": 9,
+        "age":35,
+        "image": "https://b.fssta.com/uploads/application/soccer/headshots/864.vresize.350.350.medium.48.png"
+    }
+],
+"coach":"ok hello"
+}
